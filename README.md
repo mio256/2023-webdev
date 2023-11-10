@@ -22,14 +22,14 @@
 講座で使用したスライドです．
 ## Learning Resources
 少しでも興味が湧いた方に向けて，今後の学習に役立ちそうなサイトや書籍を紹介します．
-- 公式のウェブに関するドキュメント：**[MDN Web Docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)**
+- 公式のウェブに関するドキュメント：**[MDN Web Docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web){:target="_blank"}**
   
-- JavaScriptの勉強：**[JavaScript Primer](https://jsprimer.net/)**
+- JavaScriptの勉強：**[JavaScript Primer](https://jsprimer.net/){:target="_blank"}**
   
 - 書籍で学習するのが好きな方は，九工大の図書館にも多くのWebに関する書籍がありますので，ぜひ活用してみてください．
-  - **[1冊ですべて身につくHTML&CSSとWebデザイン入門講座](https://www.lib.kyutech.ac.jp/opac/volume/822106)**
-  - **[ほんの一手間で劇的に変わるHTML&CSSとWebデザイン実践講座](https://www.lib.kyutech.ac.jp/opac/volume/849327)**
+  - **[1冊ですべて身につくHTML&CSSとWebデザイン入門講座](https://www.lib.kyutech.ac.jp/opac/volume/822106){:target="_blank"}**
+  - **[ほんの一手間で劇的に変わるHTML&CSSとWebデザイン実践講座](https://www.lib.kyutech.ac.jp/opac/volume/849327){:target="_blank"}**
   
 - プログラミング全般の学習用サイト（今回取り扱ったHTMLやCSS，JavaScriptに関する内容ももちろん学習できます）
-  - **[progate](https://prog-8.com/)**
-  - **[W3Schools](https://www.w3schools.com/)**
+  - **[progate](https://prog-8.com/){:target="_blank"}**
+  - **[W3Schools](https://www.w3schools.com/){:target="_blank"}**
