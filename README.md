@@ -26,7 +26,7 @@
   
 - JavaScriptの勉強：**[JavaScript Primer](https://jsprimer.net/)**
   
-- 書籍で学習するのが好きな方は，九工大の図書館にも多くのWebに関する書籍をぜひ活用してみてください．
+- 書籍で学習するのが好きな方は，九工大の図書館にも多くのWebに関する書籍がありますので，ぜひ活用してみてください．
   - **[1冊ですべて身につくHTML&CSSとWebデザイン入門講座](https://www.lib.kyutech.ac.jp/opac/volume/822106)**
   - **[ほんの一手間で劇的に変わるHTML&CSSとWebデザイン実践講座](https://www.lib.kyutech.ac.jp/opac/volume/849327)**
   
