@@ -1,15 +1,16 @@
 # 2023-webdev
 ## TOC
-### メインコース
-1. [はじめに](docs/main-intro.md)
-2. [自己紹介のページを作ろう](docs/main-html.md)
-3. [見栄えをよくしよう](docs/main-css.md)
-4. [Webページを充実させよう](docs/main-final.md)
+### メイン講座
+1. **[はじめに](docs/main-intro.md)**
+2. **[自己紹介のページを作ろう](docs/main-html.md)**
+3. **[見栄えをよくしよう](docs/main-css.md)**
+4. **[Webページを充実させよう](docs/main-final.md)**
 
-### アドバンスドコース
-- [インターネット上に公開してみよう](docs/advanced-publish.md)
-- [モダンなWebページを作ろう](docs/advanced-css.md)
-- [ページ内に動きをつけよう](docs/advanced-js.md)
+### アドバンスド講座
+- [各コースの詳細](docs/advanced.md)
+  - **[インターネット上に公開してみよう](docs/advanced-publish.md)**
+  - **[モダンなWebページを作ろう](docs/advanced-css.md)**
+  - **[ページ内に動きをつけよう](docs/advanced-js.md)**
 
 ### Sources
 - [スライド]()  
