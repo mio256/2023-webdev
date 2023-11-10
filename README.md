@@ -22,7 +22,7 @@
 講座で使用したスライドです．
 ## Learning Resources
 少しでも興味が湧いた方に向けて，今後の学習に役立ちそうなサイトや書籍を紹介します．
-- 公式のウェブに関するドキュメント：**[mdn web docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)**
+- 公式のウェブに関するドキュメント：**[MDN Web Docs](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web)**
   
 - JavaScriptの勉強：**[JavaScript Primer](https://jsprimer.net/)**
   
