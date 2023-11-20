@@ -3,7 +3,7 @@
 ### メイン講座
 1. **[はじめに](docs/main-intro.md)**
    
-2. **[自己紹介のページを作ろう](docs/main-html.md)**
+2. **[HTMLで簡単なページを作ろう](docs/main-html.md)**
    
 3. **[見栄えをよくしよう](docs/main-css.md)**
    
