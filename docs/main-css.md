@@ -1,3 +1,3 @@
 # 見栄えをよくしよう
   
-[次のページ](main-enhanced.md)
+[次のページ](main-enhance.md)
