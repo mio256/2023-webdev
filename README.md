@@ -7,7 +7,9 @@
    
 3. **[見栄えをよくしよう](docs/main-css.md)**
    
-4. **[Webページを充実させよう](docs/main-final.md)**
+4. **[Webページを充実させよう](docs/main-enhance.md)**
+   
+5. **[おわりに](docs/main-final.md)**
 
 ### アドバンスド講座
 <!-- 各コースの詳細は[こちら](docs/advanced.md)から． -->
