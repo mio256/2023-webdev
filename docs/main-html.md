@@ -2,7 +2,7 @@
 まずは簡単なページを作っていきます．
 
 ## HTMLについて
-HTMLは**H**yper**T**ext **M**arkup **L**anguageの略で，Webページのコンテンツの構造を定義するために使う言語です．コンテンツは，見出しや段落，箇条書きのリスト，画像，表などの組み合わせで構成されています．  
+HTMLは**H**yper**T**ext **M**arkup **L**anguageの略で，Webページのコンテンツの構造を定義するために使う言語です．コンテンツは，見出しや段落，箇条書きのリスト，画像，表などの組み合わせで構成されています．詳細は[こちら](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics)．  
 それでは実際にHTMLを使ってみます．
 
 ## HTMLファイルを作成する
@@ -84,6 +84,13 @@ HTMLは**H**yper**T**ext **M**arkup **L**anguageの略で，Webページのコ�
 > </ul>
 > ```
 > - 詳しく知りたい方は[こちら](https://developer.mozilla.org/ja/docs/Web/HTML/Element/ul)
+
+### コメント
+プログラムにコメントを書きたい！という方は，以下のコードでコメントを書くことができます．
+```html
+<!-- これはコメントです． -->
+```
+
 ## Work1
 ここまでの内容をもとに実際に自分の自己紹介のページを作成します．自己紹介以外でも自分が作りたいページでOKです．先ほど作成した`first.html`を編集して色々な要素を追加してみてください．
   
