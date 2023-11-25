@@ -8,7 +8,7 @@ HTMLは**H**yper**T**ext **M**arkup **L**anguageの略で，Webページのコ�
 ## HTMLファイルを作成する
 基本的に1つのWebページにつき1つのファイルを作成します．
 > [!IMPORTANT]
-> - ここからは[Visaul Studio Code](https://code.visualstudio.com/)がインストールされている前提で話を進めます．インストール方法がわからない方はお近くのCore-teamメンバーにお声がけください．
+> - ここからは[Visual Studio Code](https://code.visualstudio.com/)がインストールされている前提で話を進めます．インストール方法がわからない方はお近くのCore-teamメンバーにお声がけください．
 > - Windows 11での操作方法しか記載していませんので，Windows 11以外を利用されている方はご自身の環境に合わせて操作してください．
 
 1. デスクトップに新しく`webdev`というフォルダを作成します
