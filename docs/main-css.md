@@ -34,6 +34,22 @@ h2 {
 `body{ ... }`，`h1{ ... }`とありますが，これは`first.html`に記述した`<body>`要素や`<h1>`要素にそれぞれ対応しており，それぞれの要素ごとに色々な設定をしています．
 
 ## 設定内容について
+### 色
+`color`で文字の色，`background-color`で背景の色，`border-bottom-color`で下線の色を設定することができます．色は，`blue`や`red`など色を表す英語のキーワードを使うことができます．使用可能は色は[こちら](https://developer.mozilla.org/ja/docs/Web/CSS/named-color)を参照してみてください．  
+また，このようなカラーコードの文字列`#FF0000`も使用可能です．
 
+### 大きさ・太さ
+`font-size`では文字の大きさ，`border-bottom-width`では下線の太さを数値で設定することができます．
+
+### 線の種類
+`border-bottom-style`では下線の種類を設定できます．設定値は，
+- `solid`: 実線
+- `double`: 二重線
+- `dotted`: 点線
+- `dashed`: 破線
+などがあります．詳しくは[こちら](https://developer.mozilla.org/ja/docs/Web/CSS/border-bottom-style)．
+
+## Work2
+ここまでの内容をもとに先ほど作成した自分の自己紹介のページに装飾を施します．色や文字の大きさなどの設定値を変えて独自のページを作ります．先ほど作成した`style.css`を編集して設定値を変更してみてください．
   
 [次のページ](main-enhance.md)
