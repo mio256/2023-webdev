@@ -47,6 +47,7 @@ h2 {
 - `double`: 二重線
 - `dotted`: 点線
 - `dashed`: 破線
+
 などがあります．詳しくは[こちら](https://developer.mozilla.org/ja/docs/Web/CSS/border-bottom-style)．
 
 ## Work2
