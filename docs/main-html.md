@@ -76,13 +76,13 @@ HTMLは**H**yper**T**ext **M**arkup **L**anguageの略で，Webページのコ�
 > - `<ul>`要素の中に`<ul>`要素を記述することで入れ子にすることができます．
 > ```html
 > <ul>
->  <li>スイカ</li>
+>   <li>スイカ</li>
 >   <ul>
->    <li>マダーボール</li>
->    <li>でんすけすいか</li>
+>     <li>マダーボール</li>
+>     <li>でんすけすいか</li>
 >   </ul>
->  <li>メロン</li>
->  <li>パイナップル</li>
+>   <li>メロン</li>
+>   <li>パイナップル</li>
 > </ul>
 > ```
 > - 詳しく知りたい方は[こちら](https://developer.mozilla.org/ja/docs/Web/HTML/Element/ul)
