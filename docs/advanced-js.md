@@ -54,4 +54,74 @@ body.appendChild(newDiv); // body 一番最初の子要素を newDiv にする
 ```
 `newDiv`が追加されているはずです.  
 
+## 動き(?)
+先ほどは基本的なJSの操作を学びましたね  
+ではJSを使ってHTMLに動きをつけていきましょう!!
+### `<script>`タグ
+`first.html`の`<body>`の内側に以下の行を追加しましょう
+```html
+<script type="text/javascript">
+    console.log("Hello!!");
+</script>
+```
+ページを読み込み直すと、`Console`には`Hello`と表示されていると思います  
+`<script>`タグはJSを書くときなどに使用します.
+### `button`と関数
+まずは`first.html`の`<body>`の内側に以下の行を追加しましょう
+```html
+<button onclick="clickEvent()">Click me</button>
+```
+次に`<script>`の内側に次のコードを追加しましょう
+```js
+function clickEvent() {
+    console.log("clicked");
+}
+```
+この状態で`Click me`ボタンを押すと`Console`には`clicked`と表示されるはずです
+
+### `button`で要素を追加
+やっと**動き**っぽいことをやります  
+`<script>`タグ内に以下のコードを追加しましょう
+```js
+function clickEvent() {
+        const body = document.body;
+        const newDiv = document.createElement("div");
+
+        newDiv.innerText = "This is newDiv";
+        body.appendChild(newDiv);
+}
+```
+`Click me`を押してみてください  
+`This is newDiv`という文字列が画面に表示されたはずです.  
+このようにJSを使うと画面上の文字を表示させることができます.
+
+
+### 応用
+次は応用例です. コピペして動作を確認してみましょう
+```js
+let i = 1;
+const body = document.body;
+
+function clickEvent() {
+	if (i == 1) {
+		createDiv();
+		i *= -1;
+	} else {
+		eraseDiv();
+		i *= -1;
+	}
+}
+
+function createDiv() {
+	const newDiv = document.createElement("div");
+	newDiv.setAttribute("id", "new_div");
+	newDiv.innerText = "This is newDiv"; 
+	body.appendChild(newDiv); 			
+}
+
+function eraseDiv() {
+	const newDiv = document.getElementById("new_div");
+	newDiv.remove();
+}
+```
 
