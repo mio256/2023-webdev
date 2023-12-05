@@ -44,6 +44,7 @@ console.log(divs[0]);
 ```
 で `divs`の一番最初の要素を取得できます.
 ### 新しく要素を作る
+`first.html`をブラウザで開き`Console`に以下をコピペしてください
 ```JS
 const body = document.body; // body を定義
 const newDiv = document.createElement("div"); // newDiv という名前の新しい div 要素を作る
@@ -51,4 +52,6 @@ const newDiv = document.createElement("div"); // newDiv という名前の新し
 newDiv.innerText = "This is newDiv"; // newDiv の中のテキストを設定
 body.appendChild(newDiv); // body 一番最初の子要素を newDiv にする
 ```
-おそらく画面には表示されないでしょうが、確実に`newDiv`は追加されているはずです.  
+`newDiv`が追加されているはずです.  
+
+
