@@ -190,6 +190,8 @@ https://getbootstrap.jp/docs/5.3/content/tables/#%e6%a6%82%e8%a6%81
 
 ![スクリーンショット 2023-12-08 17 29 38](https://github.com/mio256/2023-webdev/assets/71450182/5b833685-809b-483b-b8d4-71e9f746c472)
 
+<details>
+
 <summary>ヒント - わからない方へ</summary>
 
 ### カードのページを探そう
