@@ -180,3 +180,47 @@ https://getbootstrap.jp/docs/5.3/content/tables/#%e6%a6%82%e8%a6%81
 </details>
 
 [Bootstrap Tables](https://getbootstrap.jp/docs/5.3/content/tables/) には他にも色々なオプションがあるため、気に入ったものを試してみましょう！
+
+
+## カードを自分でカスタマイズしてみよう
+
+最後のお題は少し難しめですが、下の画像のようなWebページをつくってみましょう。
+
+まずは、[BootstrapDocs](https://getbootstrap.jp/docs/5.3/getting-started/introduction/) から「カード」について説明されているページを探しましょう！
+
+![スクリーンショット 2023-12-08 17 29 38](https://github.com/mio256/2023-webdev/assets/71450182/5b833685-809b-483b-b8d4-71e9f746c472)
+
+<summary>ヒント - わからない方へ</summary>
+
+### カードのページを探そう
+
+[BootstrapDocs](https://getbootstrap.jp/docs/5.3/getting-started/introduction/) を開き、左側のバーから **Components** を探してみましょう。
+
+### ３つのカードを並べる方法を探そう
+
+[Bootstrap Card](https://getbootstrap.jp/docs/5.3/components/card/) を開き、右側のバーから **カードグループ** を探してみましょう。
+
+### カードを横にする方法を探そう
+
+[Bootstrap Card](https://getbootstrap.jp/docs/5.3/components/card/) を開き、右側のバーから **水平方向** を探してみましょう。
+
+### ボタンを付ける方法を探そう
+
+ボタンの実装は二通りのやり方があります。
+
+1. [Bootstrap Card](https://getbootstrap.jp/docs/5.3/components/card/) のいくつかのパーツはボタンを付随しているので、その部分を流用する。
+2. [Bootstrap Buttons](https://getbootstrap.jp/docs/5.3/components/buttons/) からボタンをつける方法を探す。
+
+ボタンのカスタマイズがしたい場合などは 2 を参考にしましょう！
+
+</details>
+
+## まとめ
+
+最後の課題は少し難しかったと思いますが、Bootstrapを使うだけでイケてるレスポンシブデザインを簡単に作れることがわかったと思います。
+
+実際の開発では、このようなフレームワークやライブラリを使用し、自分たちだけで0から作らないことで開発効率を上げています。
+
+Bootstrap以外にも、 [Tailwind](https://tailwindcss.com/) や [MUI](https://mui.com/) があります。
+
+ぜひ、自分のやってみたいことに合わせて色々なオプションやフレームワークに触れてみてください！
