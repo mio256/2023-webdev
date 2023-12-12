@@ -13,7 +13,8 @@
 ![create-repo0](img/create-repo0.png)  
 
 2. ページの右上隅で`+`を選択し，**[New Repository]** をクリックします．  
-![create-repo1](img/create-repo1.png)  
+|![create-repo1](img/create-repo1.png)|
+| ----- |  
 
 3. `Repository name`のところに`<自分のusername>.github.io`と入力します．
 ![create-repo2](img/create-repo2.png)
