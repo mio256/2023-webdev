@@ -13,18 +13,17 @@
 ![create-repo0](img/create-repo0.png)  
 
 2. ページの右上隅で`+`を選択し，**[New Repository]** をクリックします．  
-| ![create-repo1](img/create-repo1.png) |
-| --- |  
+![create-repo1](img/create-repo1.png)
 
-3. `Repository name`のところに`<自分のusername>.github.io`と入力します．
+1. `Repository name`のところに`<自分のusername>.github.io`と入力します．
 ![create-repo2](img/create-repo2.png)
 > [!NOTE]
 > usernameが`iwano205`の場合，レポジトリの名前を`iwano205.github.io`にします．自分のusernameの末尾に`.github.io`を連接します．  
 
-4. 入力が完了したら，最下部の **[Create repository]** をクリックします．
+1. 入力が完了したら，最下部の **[Create repository]** をクリックします．
 ![create-repo3](img/create-repo3.png)
 
-5. この画面が表示されたら完了です．
+1. この画面が表示されたら完了です．
 ![create-repo4](img/create-repo4.png)
 
 ## ファイルをアップロードする
@@ -48,3 +47,20 @@
 
 6. この画面が表示されたら完了です．
 ![upload-file4](img/upload-file4.png)
+
+## ページの公開
+ここまでの作業でページの公開の下準備が終わりました．最後に公開しましょう．
+1. リポジトリのページを開き，右上の **[Settings]** をクリックします．
+![publish0](img/publish0.png)  
+
+2. 左カラムの **[Pages]** をクリックします．
+![publish1](img/publish1.png)
+
+3. `Your site live at ~`というようなことが書かれていたら既に公開されています．**[Visit site]** を押してアクセスしてみましょう．
+![publish2](img/publish2.png)  
+
+4. このように自分で書いたHTMLのページが表示されます．
+![publish3](img/publish3.png)
+
+## まとめ
+自分で作成したWebページをインターネット上に公開することができたかと思います！今回ははGitHub Pagesというサービスを利用して簡単に公開できました．`webdev`フォルダの中身のように，ページを増やしたり画像を追加することも可能ですのでぜひ試してみてください．
