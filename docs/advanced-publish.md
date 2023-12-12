@@ -42,4 +42,8 @@
 ![upload-file2](img/upload-file2.png)
 > [!WARNING]
 > 個人情報が含まれているファイルはアップロードしないでください．誤ってアップロードした場合は，これ以降の作業を行う前にお近くのCore-teamメンバーまでお声がけください．
-5. **[Commit changes]**をクリックします．
+5. **[Commit changes]** をクリックします．
+![upload-file3](img/upload-file3.png)
+
+6. この画面が表示されたら完了です．
+![upload-file4](img/upload-file4.png)
