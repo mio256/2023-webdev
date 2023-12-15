@@ -13,11 +13,15 @@
 
 ### アドバンスド講座
 <!-- 各コースの詳細は[こちら](docs/advanced.md)から． -->
-- **[インターネット上に公開してみよう](docs/advanced-publish.md)**
+- **[インターネット上に公開してみよう](docs/advanced-publish.md)**  
+GitHub Pagesを利用して，メイン講座で作成したWebページをインターネット上からアクセスできるようにします．
   
-- **[モダンなWebページを作ろう](docs/advanced-css.md)**
+- **[モダンなWebページを作ろう](docs/advanced-css.md)**  
+CSSフレームワーク`Bootstrap`を利用して，より高度なデザインを簡単に実現できるようにします．
   
-- **[ページ内に動きをつけよう](docs/advanced-js.md)**
+- **[ページ内に動きをつけよう](docs/advanced-js.md)**  
+Javascriptを用いて，Webページにプログラミング要素を足します．  
+`React`や`Vue.js`などのフロントエンドフレームワークにも言及しています．
 
 ## Sources
 - **[スライド]()**  
