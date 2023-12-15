@@ -65,3 +65,5 @@
 
 ## まとめ
 自分で作成したWebページをインターネット上に公開することができたかと思います！今回は[GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)というサービスを利用して簡単に公開できました．`webdev`フォルダの中身のように，ページを増やしたり画像を追加することも可能ですのでぜひ試してみてください．
+
+[目次に戻る](../README.md)
